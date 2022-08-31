@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la,pwd,ls -l /boot
+ls -lva ./,ls -lva,ls -lva /boot
